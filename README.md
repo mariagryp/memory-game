@@ -13,4 +13,6 @@
 # 4.Creat New branch from the disered repository using VSCode terminal
 
 # (ctr + shift + p -> git create branch from.... -> branch name -> enter)
-# commit changes to the new branch using source control
+# commit changes to the new branch using source control. 
+# stage changes
+# post new branch 
